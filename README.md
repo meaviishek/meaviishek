@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Abhishek is a software developer and tech enthusiast with a focus on creating interactive and beautifully designed web applications. With expertise in technologies like React, Flask, MongoDB, Express, and Firebase, he has worked on a variety of projects, including real estate platforms, influencer engagement tools, and applications for connecting farmers with consumers and retailers. Abhishek is also involved in leading and organizing tech events, including a hackathon at his college club 'Innovxus,' where he serves as the tech lead. His GitHub profile showcases a diverse range of projects, reflecting his passion for solving real-world problems through technology and innovative systems.
+I am tech enthusiast with a focus on creating interactive and beautifully designed web applications. With expertise in technologies like React, Flask, MongoDB, Express, and Firebase, he has worked on a variety of projects, including real estate platforms, influencer engagement tools, and applications for connecting farmers with consumers and retailers. Abhishek is also involved in leading and organizing tech events, including a hackathon at his college club 'Innovxus,' where he serves as the tech lead. His GitHub profile showcases a diverse range of projects, reflecting his passion for solving real-world problems through technology and innovative systems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/me_aviishek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meaviishek) 
